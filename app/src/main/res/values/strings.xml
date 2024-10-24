@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ppp</string>
+
+    <string name="underlined_text"><u>Login</u></string>
+    <string name="underlined_text2"><u>Registr</u></string>
+
+</resources>
